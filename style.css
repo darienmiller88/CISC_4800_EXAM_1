@@ -1,0 +1,16 @@
+.header{
+    text-align: center;
+    background-color: aqua;
+}
+
+.computer{
+    text-align: center;
+}
+
+.email{
+    text-align: center;
+}
+
+table, td {
+    border: 1px solid black;
+}
